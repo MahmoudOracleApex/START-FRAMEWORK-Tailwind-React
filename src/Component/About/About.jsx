@@ -1,5 +1,4 @@
 import'./About.css'
-import IconStar from '../IconStar/IconStar'
 export default function About() {
   return (
     <>
