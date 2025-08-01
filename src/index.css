@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@theme {
+  --color-Navbar: #2c3e50;
+  --color-Primary:#1ABC9C;
+}
